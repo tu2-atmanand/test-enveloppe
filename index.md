@@ -1,0 +1,41 @@
+---
+share: "true"
+---
+
+
+# **Task Board** plugin Documentation
+
+## Topics
+
+- [01 - Installation](./01-Installation.md#)
+- [02 - Getting Started](./02-GettingStarted.md#)
+- [03 - Features](./README.md#)
+- [04 - Examples](./README.md#)
+- [05 - How to do Anything](<How To/README.md>)
+- [06 - FAQs](./README.md#)
+
+## What is Task Board?
+
+**Task Board** is an Obsidian plugin to view and manage all your task in a much more efficient Kanban Board format. Easily manage your tasks throught your vault.
+
+![Task Board Thumbnail](./assets/TaskBoardThumbnail.png)
+
+Understand the complete UI of Task Board from here : [Task Board Pane](./Task_Board_Pane.md#)
+
+## **How Does it work ?**
+
+- This plugin scans tasks from all or the [filtered](./Filters_for_Scanning.md#) Markdown file from your whole vault and show them on a Kanban type Board.
+- You can edit the task directly from the Task Board, without opening the Markdown file.
+- Add task to currently opened files using a pop-up window.
+
+## **How to start ?**
+
+**STEP 1 :** First install the plugin : [Installation](./01-Installation.md#.md#)
+
+**STEP 2 :** Learn how to start using the plugin, initial setup : [Getting Started](./02-GettingStarted.md#.md#)
+
+**STEP 3 :** Go through various examples : [Examples](./README.md#.md#)
+
+**STEP 4 :** Understand all the features to use the plugin efficiently : [Features](./README.md#.md#)
+
+> For any queries try to find your answer here : [Frequently Asked Questions](./README.md#.md#)
